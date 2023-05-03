@@ -7,49 +7,55 @@
         "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
         "recipes": [
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"Heat the oil in a wok or large skillet over high he.Add the beef and stir-fry until browned on all sides, about 2-3 minutes. Remove from the wok and set aside.Add the garlic and ginger to the wok and stir-fry for 30 seconds.Add the garlic and ginger to the wok and stir-fry for 30 seconds.Return the beef to the wok and add the soy sauce, oyster sauce, sugar, salt, and pepper. Stir-fry for another minute or two, until the beef is cooked through and the vegetables are tender."
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXwj1XwZOIvvM_kOVQ6LUCU3WIIcDNqem8li1uXmQ&s",
+                "recipeName": "Hamburger",
+                "ingredients": "Ground beef,Salt and pepper, Hamburger buns,Tomato,Onion,Pickles",
+                "rating": 4.5,
+                "cookingMethod": "Start by selecting high-quality ground beef, ideally with a fat content of 80% to 85%.Divide the ground beef into evenly sized portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill, lightly oil the grates to prevent the patties from sticking.Season the patties with salt and pepper on both sides."
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":""
+                "img": "https://www.foodandwine.com/thmb/DI29Houjc_ccAtFKly0BbVsusHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/crispy-comte-cheesburgers-FT-RECIPE0921-6166c6552b7148e8a8561f7765ddf20b.jpg",
+                "recipeName": "Cheeseburger",
+                "ingredients": "Ground beef,Salt and pepper,LettuceTomato,Onion ,Pickles",
+                "rating": 4,
+                "cookingMethod": "Divide the ground beef into even portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill, lightly oil the grates to prevent the patties from sticking."
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"Heat Stir-fry for another minute or two, until the beef is cooked through and the vegetables are tender."
+                "img": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2020-07-how-to-make-a-milkshake-at-home%2F2020-06-08_AT-K19388",
+                "recipeName": "Milkshake",
+                "ingredients": "Ice cream,MilK, Fruits ,Nuts ,Candy ,Protein powder",
+                "rating": 4,
+                "cookingMethod": "Scoop 2 to 3 large scoops of ice cream into a blender.Pour in about 1/2 to 1 cup of milk, depending on the thickness you prefer for your milkshake.Add any desired flavorings, such as chocolate syrup or vanilla extract.Blend the ingredientstogether until smooth and creamy. If the shake is too thick, add more milk a little at a time until it reaches your desired consistency"
             }
         ]
     },
     {
         "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
-        "name": "Shaun Marsh",
+        "name": "Shean Watson",
         "experience": "4 Years",
         "likes": 3725,
         "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
         "recipes": [
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"Heat gh and the vegetables are tender."
+                "img": "",
+                "recipeName": "Muffin",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "Heat gh and the vegetables are tender."
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":""
+                "img": "",
+                "recipeName": "Burrito",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": ""
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"He hrough and the vegetables are tender."
+                "img": "",
+                "recipeName": "Taco",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "He hrough and the vegetables are tender."
             }
         ]
     },
@@ -61,22 +67,25 @@
         "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
         "recipes": [
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"Heat "
+                "img": "",
+                "recipeName": "Fried chicken",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "Heat "
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":""
+                "img": "",
+                "recipeName": "Donuts",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": ""
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"Heat through and the vegetables are tender."
+                "img": "",
+                "recipeName": "Soft drink",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "Heat through and the vegetables are tender."
             }
         ]
     },
@@ -88,22 +97,25 @@
         "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
         "recipes": [
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"Hked through and the vegetables are tender."
+                "img": "",
+                "recipeName": "Pizza",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "Hked through and the vegetables are tender."
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":""
+                "img": "",
+                "recipeName": "Onion ring",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": ""
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"Heatd through and the vegetables are tender."
+                "img": "",
+                "recipeName": "Pancake",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "Heatd through and the vegetables are tender."
             }
         ]
     },
@@ -115,76 +127,145 @@
         "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
         "recipes": [
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":" is cooked through and the vegetables are tender."
+                "img": "",
+                "recipeName": "Bacon",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": " is cooked through and the vegetables are tender."
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":""
+                "img": "",
+                "recipeName": "Chip",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": ""
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"He is cooked through and the vegetables are tender."
+                "img": "",
+                "recipeName": "Noodle",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "He is cooked through and the vegetables are tender."
             }
         ]
     },
     {
         "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
-        "name": "Shaun Marsh",
+        "name": "Michel Clerk",
         "experience": "4 Years",
         "likes": 3725,
         "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
         "recipes": [
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"Heatked through and the vegetables are tender."
+                "img": "",
+                "recipeName": "Peking Roasted Duck",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "Heatked through and the vegetables are tender."
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":""
+                "img": "",
+                "recipeName": "Kung Pao Chicken",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": ""
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"Hethrough and the vegetables are tender."
+                "img": "",
+                "recipeName": "Sweet and Sour Pork",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "Hethrough and the vegetables are tender."
             }
         ]
     },
     {
         "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
-        "name": "Shaun Marsh",
+        "name": "Kolim Uddin",
         "experience": "4 Years",
         "likes": 3725,
         "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
         "recipes": [
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"tables are tender."
+                "img": "",
+                "recipeName": "Hot Pot",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "tables are tender."
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":""
+                "img": "",
+                "recipeName": "Dim Sum",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": ""
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":""
+                "img": "",
+                "recipeName": "Dumplings",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": ""
+            }
+        ]
+    },
+    {
+        "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+        "name": "Rashid Khan",
+        "experience": "4 Years",
+        "likes": 3725,
+        "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
+        "recipes": [
+            {
+                "img": "",
+                "recipeName": "Sichuan Pork",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "tables are tender."
+            },
+            {
+                "img": "",
+                "recipeName": "Twice-Cooked Pork Slices",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": ""
+            },
+            {
+                "img": "",
+                "recipeName": "Fried Rice",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": ""
+            }
+        ]
+    },
+    {
+        "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+        "name": "Mosaddek Hossain",
+        "experience": "4 Years",
+        "likes": 3725,
+        "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
+        "recipes": [
+            {
+                "img": "",
+                "recipeName": "Chow Mein",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "tables are tender."
+            },
+            {
+                "img": "",
+                "recipeName": "Char Siu",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": ""
+            },
+            {
+                "img": "",
+                "recipeName": "Ma Po Tofu",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": ""
             }
         ]
     }
