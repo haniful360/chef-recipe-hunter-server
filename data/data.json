@@ -1,8 +1,9 @@
 [
     {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "1",
         "name": "Shaun Marsh",
         "experience": "4 Years",
+        "numberOfRecipes":"3",
         "likes": 3725,
         "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
         "recipes": [
@@ -30,242 +31,250 @@
         ]
     },
     {
-        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "id": "2",
         "name": "Shean Watson",
         "experience": "4 Years",
+        "numberOfRecipes":"3",
         "likes": 3725,
-        "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
+        "img": "https://st.depositphotos.com/1518767/4293/i/450/depositphotos_42930411-stock-photo-concentrated-male-chef-garnishing-food.jpg",
         "recipes": [
             {
-                "img": "",
+                "img": "https://i.ytimg.com/vi/3Ho9ivMWhho/maxresdefault.jpg",
                 "recipeName": "Muffin",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
-                "cookingMethod": "Heat gh and the vegetables are tender."
+                "cookingMethod": "Scoop 2 to 3 large scoops of ice cream into a blender.Pour in about 1/2 to 1 cup of milk, depending on the thickness you prefer for your milkshake.Add any desired flavorings, such as chocolate syrup or vanilla extract.Blend the ingredientstogether until smooth and creamy. If the shake is too thick, add more milk a little at a time until it reaches your desired consistency."
             },
             {
-                "img": "",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burrito.JPG/800px-Burrito.JPG",
                 "recipeName": "Burrito",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
-                "cookingMethod": ""
+                "cookingMethod": "Scoop 2 to 3 large scoops of ice cream into a blender.Pour in about 1/2 to 1 cup of milk, depending on the thickness you prefer for your milkshake.Add any desired flavorings, such as chocolate syrup or vanilla extract.Blend the ingredientstogether until smooth and creamy. If the shake is too thick, add more milk a little at a time until it reaches your desired consistency"
             },
             {
-                "img": "",
+                "img": "https://img.taste.com.au/w_-0kcUJ/taste/2016/11/aussie-style-beef-and-salad-tacos-86525-1.jpeg",
                 "recipeName": "Taco",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
-                "cookingMethod": "He hrough and the vegetables are tender."
+                "cookingMethod": "Start by selecting high-quality ground beef, ideally with a fat content of 80% to 85%.Divide the ground beef into evenly sized portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill."
             }
         ]
     },
     {
-        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        "id": "3",
         "name": "Shaun Marsh",
         "experience": "4 Years",
+        "numberOfRecipes":"3",
         "likes": 3725,
-        "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaPLdin_UWvf8YOYRlFVnMfh611J0Bdzaq26iCF2t5YNYA3l5edBtUqvIr2Hn8puVpxlM&usqp=CAU",
         "recipes": [
             {
-                "img": "",
+                "img": "https://amandascookin.com/wp-content/uploads/2022/09/Korean-Fried-Chicken-RCSQ.jpg",
                 "recipeName": "Fried chicken",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
-                "cookingMethod": "Heat "
+                "cookingMethod": "Start by selecting high-quality ground beef, ideally with a fat content of 80% to 85%.Divide the ground beef into evenly sized portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill "
             },
             {
-                "img": "",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Glazed-Donut.jpg/1200px-Glazed-Donut.jpg",
                 "recipeName": "Donuts",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
-                "cookingMethod": ""
+                "cookingMethod": "Start by selecting high-quality ground beef, ideally with a fat content of 80% to 85%.Divide the ground beef into evenly sized portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill"
             },
             {
-                "img": "",
+                "img": "https://cdn.britannica.com/33/206333-050-598A0208/sodas-plastic-cups-ice-straws.jpg",
                 "recipeName": "Soft drink",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
-                "cookingMethod": "Heat through and the vegetables are tender."
+                "cookingMethod": "Divide the ground beef into even portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill, lightly oil the grates to prevent the patties from sticking."
             }
         ]
     },
     {
-        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+        "id": "4",
         "name": "Shaun Marsh",
         "experience": "4 Years",
+        "numberOfRecipes":"3",
         "likes": 3725,
-        "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7V72MGfk6G24yn8zi3ps0jdgSy9jAY29tC9r16sLuXzXPg_cwTa8xFYWzsji4vwXRghU&usqp=CAU",
         "recipes": [
             {
-                "img": "",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
                 "recipeName": "Pizza",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
-                "cookingMethod": "Hked through and the vegetables are tender."
+                "cookingMethod": "Start by selecting high-quality ground beef, ideally with a fat content of 80% to 85%.Divide the ground beef into evenly sized portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill."
             },
             {
-                "img": "",
+                "img": "https://www.allrecipes.com/thmb/riouEgfO9AywX0nYG73z8GGraHk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/207422_Old-Fashioned-Onion-Rings_82659_Photo-by-Tricia-Winterle-Jaeger-2000-a96820e27cb64cafa8c4925ad027a59d.jpg",
                 "recipeName": "Onion ring",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
-                "cookingMethod": ""
+                "cookingMethod": "Divide the ground beef into even portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill, lightly oil the grates to prevent the patties from sticking."
             },
             {
-                "img": "",
+                "img": "https://static.onecms.io/wp-content/uploads/sites/43/2022/02/16/21014-Good-old-Fashioned-Pancakes-mfs_001.jpg",
                 "recipeName": "Pancake",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
-                "cookingMethod": "Heatd through and the vegetables are tender."
+                "cookingMethod": "Start by selecting high-quality ground beef, ideally with a fat content of 80% to 85%.Divide the ground beef into evenly sized portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill."
             }
         ]
     },
     {
-        "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+        "id": "5",
         "name": "Shaun Marsh",
         "experience": "4 Years",
+        "numberOfRecipes":"3",
         "likes": 3725,
-        "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
+        "img": "https://media.istockphoto.com/id/1394055791/photo/portrait-of-confident-black-female-chef-at-restaurant-kitchen-looking-at-camera.jpg?b=1&s=170667a&w=0&k=20&c=2IlSPfIQtxrffNhikvF06C4KgqGnuyvV5tD0GgfR9RE=",
         "recipes": [
             {
-                "img": "",
+                "img": "https://i0.wp.com/www.onceuponachef.com/images/2022/05/oven-bacon-1.jpg?resize=760%2C548&ssl=1",
                 "recipeName": "Bacon",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
-                "cookingMethod": " is cooked through and the vegetables are tender."
+                "cookingMethod": "Scoop 2 to 3 large scoops of ice cream into a blender.Pour in about 1/2 to 1 cup of milk, depending on the thickness you prefer for your milkshake.Add any desired flavorings, such as chocolate syrup or vanilla extract.Blend the ingredientstogether until smooth and creamy. If the shake is too thick, add more milk a little at a time until it reaches your desired consistency"
             },
             {
-                "img": "",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1rnDMSCH1sflYCRaws33Wz_KXM3aBulSXH_fgHTR-3dyxpXRwq-bXuMx83tewJcI4HDs&usqp=CAU",
                 "recipeName": "Chip",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
-                "cookingMethod": ""
+                "cookingMethod": "Divide the ground beef into even portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill, lightly oil the grates to prevent the patties from sticking."
             },
             {
-                "img": "",
-                "recipeName": "Noodle",
-                "ingredients": "mutton, tail, salt,mosla,water",
+                "img": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2020-07-how-to-make-a-milkshake-at-home%2F2020-06-08_AT-K19388",
+                "recipeName": "Milkshake",
+                "ingredients": "Ice cream,MilK, Fruits ,Nuts ,Candy ,Protein powder",
                 "rating": 4,
-                "cookingMethod": "He is cooked through and the vegetables are tender."
+                "cookingMethod": "Scoop 2 to 3 large scoops of ice cream into a blender.Pour in about 1/2 to 1 cup of milk, depending on the thickness you prefer for your milkshake.Add any desired flavorings, such as chocolate syrup or vanilla extract.Blend the ingredientstogether until smooth and creamy. If the shake is too thick, add more milk a little at a time until it reaches your desired consistency"
             }
         ]
     },
     {
-        "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+        "id": "6",
         "name": "Michel Clerk",
         "experience": "4 Years",
+        "numberOfRecipes":"3",
         "likes": 3725,
-        "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9U6GLQdZRskMKyXmG34EA_hwKv_eQR2gxiVN8I_rPPWlQMXmLtryx1oimAAzutlQUTzU&usqp=CAU",
         "recipes": [
             {
-                "img": "",
-                "recipeName": "Peking Roasted Duck",
-                "ingredients": "mutton, tail, salt,mosla,water",
+                "img": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2020-07-how-to-make-a-milkshake-at-home%2F2020-06-08_AT-K19388",
+                "recipeName": "Milkshake",
+                "ingredients": "Ice cream,MilK, Fruits ,Nuts ,Candy ,Protein powder",
                 "rating": 4,
-                "cookingMethod": "Heatked through and the vegetables are tender."
+                "cookingMethod": "Scoop 2 to 3 large scoops of ice cream into a blender.Pour in about 1/2 to 1 cup of milk, depending on the thickness you prefer for your milkshake.Add any desired flavorings, such as chocolate syrup or vanilla extract.Blend the ingredientstogether until smooth and creamy. If the shake is too thick, add more milk a little at a time until it reaches your desired consistency"
             },
             {
-                "img": "",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx3er0AyQZvbWCxcXrayc1heFypxVuX3DLEU_QIDCcPktAfeE13YU9zVrb25ZKHDDIkEY&usqp=CAU",
                 "recipeName": "Kung Pao Chicken",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
-                "cookingMethod": ""
+                "cookingMethod": "Scoop 2 to 3 large scoops of ice cream into a blender.Pour in about 1/2 to 1 cup of milk, depending on the thickness you prefer for your milkshake.Add any desired flavorings, such as chocolate syrup or vanilla extract.Blend the ingredientstogether until smooth and creamy. If the shake is too thick, add more milk a little at a time until it reaches your desired consistency"
             },
             {
-                "img": "",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAUcfvz09HGo1_IARr0IAwWtfAg9DorLfdZI1aAMo8MOwXgb9Lufj-og7wd-jztD7Gdyg&usqp=CAU",
                 "recipeName": "Sweet and Sour Pork",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
-                "cookingMethod": "Hethrough and the vegetables are tender."
+                "cookingMethod": "Divide the ground beef into even portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill, lightly oil the grates to prevent the patties from sticking."
             }
         ]
     },
     {
-        "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+        "id": "7",
         "name": "Kolim Uddin",
         "experience": "4 Years",
+        "numberOfRecipes":"3",
         "likes": 3725,
-        "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0UoambtQRakJoSUXBxOMzpqjSCYqMQ91LU90Oy_p65ZItegSk_k4yaXBILcRyG7uryEM&usqp=CAU",
         "recipes": [
             {
-                "img": "",
-                "recipeName": "Hot Pot",
-                "ingredients": "mutton, tail, salt,mosla,water",
+                "img": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2020-07-how-to-make-a-milkshake-at-home%2F2020-06-08_AT-K19388",
+                "recipeName": "Milkshake",
+                "ingredients": "Ice cream,MilK, Fruits ,Nuts ,Candy ,Protein powder",
                 "rating": 4,
-                "cookingMethod": "tables are tender."
+                "cookingMethod": "Scoop 2 to 3 large scoops of ice cream into a blender.Pour in about 1/2 to 1 cup of milk, depending on the thickness you prefer for your milkshake.Add any desired flavorings, such as chocolate syrup or vanilla extract.Blend the ingredientstogether until smooth and creamy. If the shake is too thick, add more milk a little at a time until it reaches your desired consistency"
             },
             {
-                "img": "",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi9tgxG_yT1DXzjSJE-CJT6fVww0BUtDRbw2dA2i6onGUzISpAG2zuYtvwf7rktYS6fR4&usqp=CAU",
                 "recipeName": "Dim Sum",
-                "ingredients": "mutton, tail, salt,mosla,water",
+                "ingredients": "Green onions,Garlic,Sesame oil,Hoisin sauce,sugar,Soy sauce",
                 "rating": 4,
-                "cookingMethod": ""
+                "cookingMethod": "Scoop 2 to 3 large scoops of ice cream into a blender.Pour in about 1/2 to 1 cup of milk, depending on the thickness you prefer for your milkshake.Add any desired flavorings, such as chocolate syrup or vanilla extract.Blend the ingredientstogether until smooth and creamy. If the shake is too thick, add more milk a little at a time until it reaches your desired consistency"
             },
             {
-                "img": "",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Xiaolongbao-breakfast.jpg/1200px-Xiaolongbao-breakfast.jpg",
                 "recipeName": "Dumplings",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
-                "cookingMethod": ""
+                "cookingMethod": "Start by selecting high-quality ground beef, ideally with a fat content of 80% to 85%.Divide the ground beef into evenly sized portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill"
             }
         ]
     },
     {
-        "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+        "id": "8",
         "name": "Rashid Khan",
         "experience": "4 Years",
+        "numberOfRecipes":"3",
         "likes": 3725,
-        "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
+        "img": "https://media.istockphoto.com/id/951132442/photo/mastering-new-culinary-heights.jpg?s=1024x1024&w=is&k=20&c=WBHcx_jAr0ygUx3w_GSguxeoH0njQazuyXoIZYP8H7I=",
         "recipes": [
             {
-                "img": "",
-                "recipeName": "Sichuan Pork",
-                "ingredients": "mutton, tail, salt,mosla,water",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx3er0AyQZvbWCxcXrayc1heFypxVuX3DLEU_QIDCcPktAfeE13YU9zVrb25ZKHDDIkEY&usqp=CAU",
+                "recipeName": "Kung Pao Chicken",
+                "ingredients": "Green onions,Garlic,Sesame oil,Hoisin sauce,sugar,Soy sauce",
                 "rating": 4,
-                "cookingMethod": "tables are tender."
+                "cookingMethod": "Start by selecting high-quality ground beef, ideally with a fat content of 80% to 85%.Divide the ground beef into evenly sized portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill"
             },
             {
-                "img": "",
-                "recipeName": "Twice-Cooked Pork Slices",
-                "ingredients": "mutton, tail, salt,mosla,water",
+                "img": "https://www.foodandwine.com/thmb/DI29Houjc_ccAtFKly0BbVsusHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/crispy-comte-cheesburgers-FT-RECIPE0921-6166c6552b7148e8a8561f7765ddf20b.jpg",
+                "recipeName": "Cheeseburger",
+                "ingredients": "Green onions,Garlic,Sesame oil,Hoisin sauce,sugar,Soy sauce",
                 "rating": 4,
-                "cookingMethod": ""
+                "cookingMethod": "Divide the ground beef into even portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill, lightly oil the grates to prevent the patties from sticking."
             },
             {
-                "img": "",
-                "recipeName": "Fried Rice",
-                "ingredients": "mutton, tail, salt,mosla,water",
-                "rating": 4,
-                "cookingMethod": ""
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXwj1XwZOIvvM_kOVQ6LUCU3WIIcDNqem8li1uXmQ&s",
+                "recipeName": "Hamburger",
+                "ingredients": "Ground beef,Salt and pepper, Hamburger buns,Tomato,Onion,Pickles",
+                "rating": 4.5,
+                "cookingMethod": "Start by selecting high-quality ground beef, ideally with a fat content of 80% to 85%.Divide the ground beef into evenly sized portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill, lightly oil the grates to prevent the patties from sticking.Season the patties with salt and pepper on both sides."
             }
         ]
     },
     {
-        "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
-        "name": "Mosaddek Hossain",
+        "id": "9",
+        "name": "Mosaddek",
         "experience": "4 Years",
+        "numberOfRecipes":"3",
         "likes": 3725,
-        "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfzx1usC4XQNWSOdBBVQMYZ-9XC911lJmxfCpZuszIQOzmgEkakQ7pwL530yq5Xdkskk&usqp=CAU",
         "recipes": [
             {
-                "img": "",
+                "img": "https://w7.pngwing.com/pngs/1006/13/png-transparent-chinese-cuisine-chow-mein-filipino-cuisine-fried-noodles-pancit-others-food-recipe-chicken.png",
                 "recipeName": "Chow Mein",
                 "ingredients": "mutton, tail, salt,mosla,water",
                 "rating": 4,
-                "cookingMethod": "tables are tender."
+                "cookingMethod": "Divide the ground beef into even portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill, lightly oil the grates to prevent the patties from sticking."
             },
             {
-                "img": "",
-                "recipeName": "Char Siu",
-                "ingredients": "mutton, tail, salt,mosla,water",
-                "rating": 4,
-                "cookingMethod": ""
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXwj1XwZOIvvM_kOVQ6LUCU3WIIcDNqem8li1uXmQ&s",
+                "recipeName": "Hamburger",
+                "ingredients": "Ground beef,Salt and pepper, Hamburger buns,Tomato,Onion,Pickles",
+                "rating": 4.5,
+                "cookingMethod": "Start by selecting high-quality ground beef, ideally with a fat content of 80% to 85%.Divide the ground beef into evenly sized portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill, lightly oil the grates to prevent the patties from sticking.Season the patties with salt and pepper on both sides."
             },
             {
-                "img": "",
-                "recipeName": "Ma Po Tofu",
-                "ingredients": "mutton, tail, salt,mosla,water",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx3er0AyQZvbWCxcXrayc1heFypxVuX3DLEU_QIDCcPktAfeE13YU9zVrb25ZKHDDIkEY&usqp=CAU",
+                "recipeName": "Kung Pao Chicken",
+                "ingredients": "Green onions,Garlic,Sesame oil,Hoisin sauce,sugar,Soy sauce",
                 "rating": 4,
-                "cookingMethod": ""
+                "cookingMethod": "Divide the ground beef into even portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill, lightly oil the grates to prevent the patties from sticking."
             }
         ]
     }
