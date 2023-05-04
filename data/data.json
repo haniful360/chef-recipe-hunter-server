@@ -1,10 +1,11 @@
 [
     {
         "id": "1",
-        "name": "Shaun Marsh",
+        "name": "Gordon Ramsay",
         "experience": "4 Years",
+        "bioDescription":" Gordon Ramsay is a renowned Scottish chef, restaurateur, and television personality. He has earned several Michelin stars for his restaurants and has hosted numerous TV shows, including MasterChef and Hell's Kitchen",
         "numberOfRecipes":"3",
-        "likes": 3725,
+        "likes": 2825,
         "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
         "recipes": [
             {
@@ -25,15 +26,16 @@
                 "img": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2020-07-how-to-make-a-milkshake-at-home%2F2020-06-08_AT-K19388",
                 "recipeName": "Milkshake",
                 "ingredients": "Ice cream,MilK, Fruits ,Nuts ,Candy ,Protein powder",
-                "rating": 4,
+                "rating": 5,
                 "cookingMethod": "Scoop 2 to 3 large scoops of ice cream into a blender.Pour in about 1/2 to 1 cup of milk, depending on the thickness you prefer for your milkshake.Add any desired flavorings, such as chocolate syrup or vanilla extract.Blend the ingredientstogether until smooth and creamy. If the shake is too thick, add more milk a little at a time until it reaches your desired consistency"
             }
         ]
     },
     {
         "id": "2",
-        "name": "Shean Watson",
+        "name": "Julia Child",
         "experience": "4 Years",
+        "bioDescription":"Julia Child was an American chef, author, and television personality. She introduced French cuisine to the American public through her popular television show, The French Chef, and authored several cookbooks, including Mastering the Art of French Cooking",
         "numberOfRecipes":"3",
         "likes": 3725,
         "img": "https://st.depositphotos.com/1518767/4293/i/450/depositphotos_42930411-stock-photo-concentrated-male-chef-garnishing-food.jpg",
@@ -56,15 +58,16 @@
                 "img": "https://img.taste.com.au/w_-0kcUJ/taste/2016/11/aussie-style-beef-and-salad-tacos-86525-1.jpeg",
                 "recipeName": "Taco",
                 "ingredients": "mutton, tail, salt,mosla,water",
-                "rating": 4,
+                "rating": 5,
                 "cookingMethod": "Start by selecting high-quality ground beef, ideally with a fat content of 80% to 85%.Divide the ground beef into evenly sized portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill."
             }
         ]
     },
     {
         "id": "3",
-        "name": "Shaun Marsh",
+        "name": "Massimo Bottura",
         "experience": "4 Years",
+        "bioDescription":"Massimo Bottura is an Italian chef and restaurateur who is considered one of the world's best chefs. His restaurant, Osteria Francescana, in Modena, Italy, has been awarded three Michelin stars and was ranked as the best restaurant in the world in 2016 and 2018.",
         "numberOfRecipes":"3",
         "likes": 3725,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaPLdin_UWvf8YOYRlFVnMfh611J0Bdzaq26iCF2t5YNYA3l5edBtUqvIr2Hn8puVpxlM&usqp=CAU",
@@ -80,7 +83,7 @@
                 "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Glazed-Donut.jpg/1200px-Glazed-Donut.jpg",
                 "recipeName": "Donuts",
                 "ingredients": "mutton, tail, salt,mosla,water",
-                "rating": 4,
+                "rating": 5,
                 "cookingMethod": "Start by selecting high-quality ground beef, ideally with a fat content of 80% to 85%.Divide the ground beef into evenly sized portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill"
             },
             {
@@ -94,8 +97,9 @@
     },
     {
         "id": "4",
-        "name": "Shaun Marsh",
+        "name": "Alice Waters",
         "experience": "4 Years",
+        "bioDescription":"Alice Waters is an American chef, restaurateur, and activist. She is the founder of the legendary restaurant Chez Panisse in Berkeley, California, which focuses on using locally sourced and organic ingredients. She is also a prominent advocate for sustainable agriculture and food education",
         "numberOfRecipes":"3",
         "likes": 3725,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7V72MGfk6G24yn8zi3ps0jdgSy9jAY29tC9r16sLuXzXPg_cwTa8xFYWzsji4vwXRghU&usqp=CAU",
@@ -125,10 +129,11 @@
     },
     {
         "id": "5",
-        "name": "Shaun Marsh",
+        "name": "Samuelsson",
         "experience": "4 Years",
+        "bioDescription":"Marcus Samuelsson is a Swedish-Ethiopian chef and restaurateur who has been awarded several Michelin stars. He is the owner of several restaurants in the United States, including Red Rooster in Harlem, and has authored several cookbooks.",
         "numberOfRecipes":"3",
-        "likes": 3725,
+        "likes": 5725,
         "img": "https://media.istockphoto.com/id/1394055791/photo/portrait-of-confident-black-female-chef-at-restaurant-kitchen-looking-at-camera.jpg?b=1&s=170667a&w=0&k=20&c=2IlSPfIQtxrffNhikvF06C4KgqGnuyvV5tD0GgfR9RE=",
         "recipes": [
             {
@@ -156,8 +161,9 @@
     },
     {
         "id": "6",
-        "name": "Michel Clerk",
+        "name": "Clare Smyth",
         "experience": "4 Years",
+        "bioDescription":"Clare Smyth is a Northern Irish chef and restaurateur who is the owner of Core by Clare Smyth in London. She was the first female chef to run a three-Michelin-starred restaurant in the UK and has won numerous awards for her innovative cuisine.",
         "numberOfRecipes":"3",
         "likes": 3725,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9U6GLQdZRskMKyXmG34EA_hwKv_eQR2gxiVN8I_rPPWlQMXmLtryx1oimAAzutlQUTzU&usqp=CAU",
@@ -187,8 +193,9 @@
     },
     {
         "id": "7",
-        "name": "Kolim Uddin",
+        "name": "Bourdain",
         "experience": "4 Years",
+        "bioDescription":"Anthony Bourdain was an American chef, author, and television personality who was known for his adventurous spirit and love of international cuisine. He hosted several popular TV shows, including Anthony Bourdain: Parts Unknown and No Reservations",
         "numberOfRecipes":"3",
         "likes": 3725,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0UoambtQRakJoSUXBxOMzpqjSCYqMQ91LU90Oy_p65ZItegSk_k4yaXBILcRyG7uryEM&usqp=CAU",
@@ -218,10 +225,11 @@
     },
     {
         "id": "8",
-        "name": "Rashid Khan",
+        "name": "Ottolenghi",
         "experience": "4 Years",
+        "bioDescription":"Yotam Ottolenghi is an Israeli-British chef, restaurateur, and cookbook author who has made a name for himself with his inventive and flavorful vegetarian cuisine. He is the owner of several restaurants in London and has authored several bestselling cookbooks, including Plenty and Jerusalem",
         "numberOfRecipes":"3",
-        "likes": 3725,
+        "likes": 8723,
         "img": "https://media.istockphoto.com/id/951132442/photo/mastering-new-culinary-heights.jpg?s=1024x1024&w=is&k=20&c=WBHcx_jAr0ygUx3w_GSguxeoH0njQazuyXoIZYP8H7I=",
         "recipes": [
             {
@@ -249,10 +257,11 @@
     },
     {
         "id": "9",
-        "name": "Mosaddek",
+        "name": "Dominique",
         "experience": "4 Years",
+        "bioDescription":"Dominique Crenn is a French chef who is the owner of several restaurants in the United States, including Atelier Crenn and Petit Crenn in San Francisco. She was the first female chef in the United States to earn three Michelin stars and is known for her innovative and artistic approach to cuisine",
         "numberOfRecipes":"3",
-        "likes": 3725,
+        "likes": 6725,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKfzx1usC4XQNWSOdBBVQMYZ-9XC911lJmxfCpZuszIQOzmgEkakQ7pwL530yq5Xdkskk&usqp=CAU",
         "recipes": [
             {
